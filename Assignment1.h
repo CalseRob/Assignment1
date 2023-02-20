@@ -5,12 +5,12 @@ public:
 
       int main(){
         //Check if a certain integer exists in the array if the number is present return the index where the
-//number is present.
+        //number is present.
       }
 
       int modifyValue(int arr[], int index, int newValue){
         //A function that can modify the value of an integer when called with the index of the integer in
-//the array and return the new value and old value back to the user.
+        //the array and return the new value and old value back to the user.
       }
 
      void addNewInteger(int arr[] int num){
